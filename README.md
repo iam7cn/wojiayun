@@ -9,7 +9,8 @@ curl http://www.wdmomo.fun:81/script/liziyun/loss
 <p>系统：[Liziyun-Armbian-OMV-EntWare.img]
 > 终端默认账号：`root` 密码：`wdmomo` | `WEB`端默认账号：`admin` 密码：`wdmomo`| 其他看`web`端注释说明
 > `WEB`端登录：默认盒子`IP`，备注集成的aira2，transmission以及百度云`web`端的注释说明有误默认下载地址为：`/sharedfolders/downloads`
-> 如内存不够可关闭2个swap释放内存</p>
+> 如内存不够可关闭2个swap释放内存
+
 ``` bash
 swapoff /dev/zram4
 swapoff /dev/zram3
