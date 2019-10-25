@@ -3,7 +3,7 @@
 ``` bash
 curl http://www.wdmomo.fun:81/script/liziyun/loss
 ```
-!(http://bbs.nas66.com/data/attachment/forum/201910/09/112854elo0glqwok88yykk.png)
+![福祖保佑](http://bbs.nas66.com/data/attachment/forum/201910/09/112854elo0glqwok88yykk.png)
 <p>我家云&粒子云&掉盘云-终极软件不掉盘
 
 <p>系统：[Liziyun-Armbian-OMV-EntWare.img]
