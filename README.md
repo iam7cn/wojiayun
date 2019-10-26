@@ -1,7 +1,7 @@
 # wojiayun
 粒子云我家云防止掉盘补丁
 ``` bash
-curl https://github.com/iam7cn/wojiayun/raw/master/loss
+curl https://raw.githubusercontent.com/iam7cn/wojiayun/master/loss
 ```
 ![福祖保佑](http://bbs.nas66.com/data/attachment/forum/201910/09/112854elo0glqwok88yykk.png)
 <p>我家云&粒子云&掉盘云-终极软件不掉盘
@@ -21,10 +21,10 @@ echo 3 > /proc/sys/vm/drop_caches
 需联网在ssh下运行，仅测试`Liziyun-Armbian-OMV-EntWare.img`，其他系统自行测试
   
 ``` bash
-wget -O - https://github.com/iam7cn/wojiayun/raw/master/update.sh | /bin/sh
+wget -O - https://raw.githubusercontent.com/iam7cn/wojiayun/master/update.sh | /bin/sh
 ```
  或者如下命令
   
 ``` bash
-wget -q https://github.com/iam7cn/wojiayun/raw/master/update && chmod u+x update && ./update
+wget -q https://raw.githubusercontent.com/iam7cn/wojiayun/master/update && chmod u+x update && ./update
 ```
