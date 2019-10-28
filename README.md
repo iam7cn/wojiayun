@@ -6,7 +6,7 @@ curl https://raw.githubusercontent.com/iam7cn/wojiayun/master/loss
 ![福祖保佑](http://bbs.nas66.com/data/attachment/forum/201910/09/112854elo0glqwok88yykk.png)
 <p>我家云&粒子云&掉盘云-终极软件不掉盘
 
-系统：[Liziyun-Armbian-OMV-EntWare.img]
+系统：[Liziyun-Armbian-OMV-EntWare.img](https://yun.baidu.com/s/1QWu4W4GKu2uah8m7lcIkxg)
 > 终端默认账号：`root` 密码：`wdmomo` |`WEB`端默认账号：`admin` 密码：`wdmomo`| 其他看`web`端注释说明
 > `WEB`端登录：默认盒子`IP`，备注集成的aira2，transmission以及百度云`web`端的注释说明有误默认下载地址为：`/sharedfolders/downloads`
 > 如内存不够可关闭2个swap释放内存
